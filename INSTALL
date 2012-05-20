@@ -1,0 +1,14 @@
+Simply run:
+
+   make
+
+(some machines might need to use "gmake" instead).  This will build your
+copy of Cryptoslam.  Once built, you can run it with the command:
+
+   ./build/cryptoslam
+
+
+At present, there is not a "configure" script.  There may be one in the
+future, but the program is almost simple enough to not warrant one.
+ -E
+
